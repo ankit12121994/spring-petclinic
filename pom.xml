@@ -239,12 +239,12 @@
 		<repository>
 			<id>spring-release</id>
 			<name>petclinic-release</name>
-			<url>http://13.234.239.221:8081/repository/petclinic-release/</url>
+			<url>http://43.205.96.237:8081/repository/petclinic-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>spring-snapshot</id>
 			<name>petclinic-snapshot</name>
-			<url>http://13.234.239.221:8081/repository/petclinic-snapshot/</url>
+			<url>http://43.205.96.237:8081/repository/petclinic-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
