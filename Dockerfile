@@ -6,8 +6,8 @@ EXPOSE 8080
 CMD ["java", "-jar", "spring-petclinic-2.7.0-SNAPSHOT.jar", "--sa.logic.api.url=${SA_LOGIC_API_URL}"]
 
 #this is test line for git test
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
+#Footer
+#© 2022 GitHub, Inc.
+#Footer navigation
+#Terms
+#Privacy
